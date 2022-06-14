@@ -1,0 +1,14 @@
+docs/**/*.json
+docs/**/*.yaml
+docs/**/*docs.go
+
+golang-api
+
+# Dev config
+*dev.conf
+
+rsa.private
+rsa.public
+
+# Ignore logs
+logs
